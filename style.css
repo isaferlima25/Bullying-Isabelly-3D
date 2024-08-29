@@ -6,8 +6,8 @@ body{
 }
 
 header{
-  background-color: #00ffff;
-  color: #000000;
+  background-color: #bc26f2;
+  color: #ffffff;
   padding: 1em 0;
   text-align: center;
 }
@@ -29,12 +29,13 @@ nav a{
 }
 
 nav a:hover{
-  background-color: #dddddd;
+  background-color: #d4d4d4;
   color: black;
 }
 
 .container{
   padding: 20px;
+  background-color: #ea9ef0ff;
 }
 
 .sessao{
